@@ -1,0 +1,88 @@
+body {text-align: center; 
+	background: skyblue;
+	font-family: arial; 
+}
+
+p{font-weight: bold ;}
+p{font-size: 18px;
+}
+
+h1 {color: pink;}
+H2{color: purple;}
+
+ul{text-align: left;}
+
+.frame {
+	background: #F9F54B; 
+	padding: 50px;
+	margin: 50px;
+	border: solid 10px purple ;
+	border-radius: 10px;
+	box-shadow: 10px 10px 10px grey;
+}
+
+.frame-img {
+	background: #FFD3B0; 
+	padding: 10px;
+	margin: 50px;
+	border: solid 10px purple ;
+	border-radius: 50px;
+	box-shadow: 10px 10px 10px grey;
+}
+
+.frame-img {
+	background: #FFD3B0; 
+	padding: 10px;
+	margin: 50px;
+	border: solid 10px purple ;
+	border-radius: 50px;
+	box-shadow: 10px 10px 10px grey;
+}
+
+.frame-link {
+	background: #D61355; 
+	padding: 10px;
+	margin: 50px;
+	border: solid 10px grey ;
+	border-radius: 50px;
+	box-shadow: 10px 10px 10px grey;
+}
+
+.circle-photo {
+width: 250px ;
+height: 250px ;
+border:none;
+border-radius: 125px;
+object-fit: cover;
+box-shadow: 10px 10px 10px grey;
+}
+
+
+.content {
+	display: flex;
+	justify-content: space-around;
+}
+
+
+.my-navbar {
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+	height: 100px; 
+	background: purple;
+}
+
+.links{
+	display: flex;
+	align-items: center;
+	height :100px;
+
+}
+
+.link {
+	margin-left: 30px;
+	color: yellow
+}
+
+	
+
